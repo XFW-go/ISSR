@@ -2,7 +2,7 @@
 This is a Tensorflow implement of ISSR
 
 Integrating Semantic Segmentation and Retinex Model for Low Light Image Enhancement. In ACMMM'20 <br>
-[Minhao Fan*](https://xfw-go.github.io/), [Wenjing Wang*](https://daooshee.github.io/website/), [Wenhan Yang](https://flyywh.github.io/), [Jiaying Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html). <br>
+[Minhao Fan](https://xfw-go.github.io/), [Wenjing Wang](https://daooshee.github.io/website/), [Wenhan Yang](https://flyywh.github.io/), [Jiaying Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html). <br>
 
 [Project Page & Dataset](https://mm20-semanticreti.github.io/)
 
