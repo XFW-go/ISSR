@@ -1,0 +1,6 @@
+model_checkpoint_path: "RetinexNet-Seg-105500"
+all_model_checkpoint_paths: "RetinexNet-Seg-63300"
+all_model_checkpoint_paths: "RetinexNet-Seg-73850"
+all_model_checkpoint_paths: "RetinexNet-Seg-84400"
+all_model_checkpoint_paths: "RetinexNet-Seg-94950"
+all_model_checkpoint_paths: "RetinexNet-Seg-105500"

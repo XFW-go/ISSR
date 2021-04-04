@@ -1,0 +1,6 @@
+model_checkpoint_path: "RetinexNet-Decom-422000"
+all_model_checkpoint_paths: "RetinexNet-Decom-253200"
+all_model_checkpoint_paths: "RetinexNet-Decom-295400"
+all_model_checkpoint_paths: "RetinexNet-Decom-337600"
+all_model_checkpoint_paths: "RetinexNet-Decom-379800"
+all_model_checkpoint_paths: "RetinexNet-Decom-422000"
